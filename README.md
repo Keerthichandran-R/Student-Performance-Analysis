@@ -6,9 +6,14 @@ This project analyzes student exam scores across three subjects: Math, Science, 
 
 student_scores.csv
 
-student_analysis.ipnyb
+student_analysis.ipynb
+
+Student_analysis.py
+
+Student analysis matplotlib.ipynb
 
 🔍 Features of the Python Script
+
 Loads and previews the dataset.
 
 Calculates average scores for each subject.
