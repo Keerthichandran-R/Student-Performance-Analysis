@@ -2,7 +2,8 @@
 📘 Student Performance Analytics
 This project analyzes student exam scores across three subjects: Math, Science, and English. The dataset contains 30 randomly generated student records across different classes.
 
-📂 Files Included
+📂 Files Included:
+
 student_scores.csv
 
 student_analysis.ipnyb
